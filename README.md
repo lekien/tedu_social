@@ -19,3 +19,5 @@
 - git remote add origin https://github.com/lekien/tedu_social.git
 - git branch -M master
 - git push -u origin master
+
+- tsc --init
